@@ -1,0 +1,85 @@
+{
+  "values": [
+    {
+      "ctl00$ScriptManager1":"ctl00$ContentPlaceHolder1$UpdatePanel1|ctl00$ContentPlaceHolder1$Button1",
+      "ctl00$ContentPlaceHolder1$displaystateval":"0",
+      "ctl00$ContentPlaceHolder1$dealaddressval":"510101",
+      "ctl00$ContentPlaceHolder1$keyword":"",
+      "__EVENTTARGET":"",
+      "__EVENTARGUMENT":"",
+      "__ASYNCPOST":"true",
+      "ctl00$ContentPlaceHolder1$Button1":"Button"
+    },
+    {
+        "ctl00$ScriptManager1":"ctl00$ContentPlaceHolder1$UpdatePanel1|ctl00$ContentPlaceHolder1$NextViewButton",
+        "ctl00$ContentPlaceHolder1$displaystateval":"0",
+        "ctl00$ContentPlaceHolder1$dealaddressval":"510101",
+        "ctl00$ContentPlaceHolder1$keyword":"",
+        "__EVENTTARGET":"",
+        "__EVENTARGUMENT":"",
+        "__ASYNCPOST":"true",
+        "ctl00$ContentPlaceHolder1$NextViewButton":""
+    }
+  ],
+  "craw":[
+    {
+      "Id":"宗地编号",
+      "Location":"宗地位置",
+      "Measure":"净用地面积",
+      "InitPrice":"起始价",
+      "FinalPrice":"成交价",
+      "Clincher":"竞得人",
+      "Time":"公布时间",
+      "Price":"最终价格"
+    },
+    {
+      "Id":"宗地编号",
+      "Nature":"土地用途及使用年限",
+      "NatureId": "宗地性质Id"
+    },
+    {
+      "Time": "公布时间",
+      "Location":"宗地位置",
+      "Price": "最终价格"
+    }
+  ],
+  "excel": [
+    {
+      "Id":"宗地编号",
+      "Location":"宗地位置",
+      "Measure":"净用地面积",
+      "InitPrice":"起始价",
+      "FinalPrice":"成交价",
+      "Clincher":"竞得人",
+      "Time":"公布时间",
+      "Price":"最终价格"
+    },
+    {
+      "Id":"宗地编号",
+      "Nature":"土地用途及使用年限",
+      "NatureId": "宗地性质Id"
+    },
+    {
+      "Time": "公布时间",
+      "Location":"宗地位置",
+      "Price": "最终价格"
+    },
+    {
+      "Time": "时间",
+      "Price": "平均价格"
+    }
+  ],
+  "region":[
+    "金牛",
+    "双流",
+    "武侯",
+    "高新",
+    "锦江",
+    "青羊",
+    "新都",
+    "郫都",
+    "温江",
+    "天府新区"
+  ],
+  "start_url": "https://www.cdggzy.com/site/LandTrade/LandList.aspx"
+}
